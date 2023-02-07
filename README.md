@@ -1,4 +1,4 @@
-# predict-guests-on-mountain
+# Ski traffic prediction
 Machine learning to predict number of people on the mountain acessed through the Flims/Laax/Falera resort. Includes data collection. 
 
 In progress!
